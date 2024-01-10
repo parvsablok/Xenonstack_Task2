@@ -54,8 +54,7 @@ Welcome to the Car Shop Website, a platform for exploring and purchasing feature
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
