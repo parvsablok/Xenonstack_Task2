@@ -92,3 +92,6 @@ Visit the website.
 Explore featured cars.
 Create an account for personalized features.
 Log in to access your account.
+
+## Screenshot
+![WhatsApp Image 2024-01-10 at 17 24 47_d02f6f3e](https://github.com/parvsablok/Xenonstack_Task2/assets/99950588/53108c4d-a078-4129-b655-efca5efac2c7)
